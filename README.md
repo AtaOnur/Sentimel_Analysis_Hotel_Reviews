@@ -1,1 +1,1 @@
-This Project is Sentimel analysis for Turkish hotel reviews with boun-Turna
+This project includes the sentiment analysis of Turkish hotel reviews using the boun-Turna model.
